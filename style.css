@@ -1331,18 +1331,7 @@ body {
   box-shadow: var(--shadow-lg);
 }
 
-/* Slide Numbers */
-.slide-number {
-  position: fixed;
-  bottom: 90px;
-  right: var(--space-32);
-  font-size: var(--font-size-sm);
-  color: var(--color-text-secondary);
-  background: var(--color-surface);
-  padding: var(--space-8) var(--space-16);
-  border-radius: var(--radius-full);
-  border: 1px solid var(--color-border);
-}
+
 
 /* Navigation Controls */
 .nav-controls {
